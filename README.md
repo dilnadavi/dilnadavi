@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on extending my knowledge through hackathons and projects!
-- 🌱 I’m currently learning DBMS, TypeScript, Mocha, Chai and Node.js!
+- 🌱 I’m currently learning DBMS and frontend development!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
