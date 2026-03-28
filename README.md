@@ -1,8 +1,7 @@
 ## Hello! 👋 I'm Dilna!
 
-- 🔭 I’m currently working on extending my knowledge through hackathons and projects!
-- 🌱 I’m currently learning DBMS, TypeScript, Mocha, Chai and Node.js!
-- 😄 Pronouns: She/Her
+🌱 UBC Computer Science student with an interest in DBMS, UI/UX and many other areas!
+🔭 Don't hesitate to reach me at [dilnadavi41@gmail.com](dilnadavi41@gmail.com)
 
 <!--
 **dilnadavi/dilnadavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
